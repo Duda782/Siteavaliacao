@@ -4,10 +4,10 @@
 }
 
 p {
-    font-size: 24px;
+    font-size: 30px;
     font-family: 'Courgette', serif;
     font-style: normal;
-    text-align: justify;
+    text-align: center;
 }
 .bg {
     height: 500px;
